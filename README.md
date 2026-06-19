@@ -145,7 +145,7 @@ This improves reliability and reduces hallucination risk.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ddr-report-generator.git
+git clone https://github.com/Kartikesh07/ddr-report-generator.git
 cd ddr-report-generator
 ```
 
