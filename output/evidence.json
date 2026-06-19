@@ -1,0 +1,980 @@
+{
+  "property_details": {
+    "property_type": "Flat",
+    "flat_no": "Flat No. 103",
+    "floors": "11",
+    "inspection_date_time": "27.09.2022 14:28 IST",
+    "inspected_by": "Krushna & Mahesh",
+    "previous_structural_audit_done": "No",
+    "previous_repair_work_done": "No",
+    "customer_name": "Not Available",
+    "mobile": "Not Available",
+    "email": "Not Available",
+    "address": "Not Available",
+    "property_age": "Not Available"
+  },
+  "observations": [
+    {
+      "id": 1,
+      "impacted_area": "Hall",
+      "negative_side_observation": "Dampness observed at skirting level of Hall of Flat No. 103",
+      "probable_positive_side_source": "Gaps between tile joints of Common Bathroom of Flat No. 103",
+      "inspection_source": "Sample Report summary table",
+      "related_images": [
+        {
+          "type": "inspection_photo",
+          "page_number": 3,
+          "image_name": "page_3_img_2.jpeg",
+          "image_path": "extracted\\inspection_images\\page_3_img_2.jpeg",
+          "width": 370,
+          "height": 493
+        },
+        {
+          "type": "inspection_photo",
+          "page_number": 3,
+          "image_name": "page_3_img_3.jpeg",
+          "image_path": "extracted\\inspection_images\\page_3_img_3.jpeg",
+          "width": 493,
+          "height": 370
+        },
+        {
+          "type": "inspection_photo",
+          "page_number": 3,
+          "image_name": "page_3_img_4.jpeg",
+          "image_path": "extracted\\inspection_images\\page_3_img_4.jpeg",
+          "width": 493,
+          "height": 370
+        },
+        {
+          "type": "inspection_photo",
+          "page_number": 3,
+          "image_name": "page_3_img_5.jpeg",
+          "image_path": "extracted\\inspection_images\\page_3_img_5.jpeg",
+          "width": 493,
+          "height": 370
+        }
+      ],
+      "severity": "Moderate",
+      "reasoning": "Skirting-level dampness indicates moisture movement. Checklist findings mention all-time leakage and possible concealed plumbing-related leakage."
+    },
+    {
+      "id": 2,
+      "impacted_area": "Common Bedroom",
+      "negative_side_observation": "Dampness observed at skirting level of Common Bedroom of Flat No. 103",
+      "probable_positive_side_source": "Gaps between tile joints of Common Bathroom of Flat No. 103",
+      "inspection_source": "Sample Report summary table",
+      "related_images": [
+        {
+          "type": "inspection_photo",
+          "page_number": 3,
+          "image_name": "page_3_img_2.jpeg",
+          "image_path": "extracted\\inspection_images\\page_3_img_2.jpeg",
+          "width": 370,
+          "height": 493
+        },
+        {
+          "type": "inspection_photo",
+          "page_number": 3,
+          "image_name": "page_3_img_3.jpeg",
+          "image_path": "extracted\\inspection_images\\page_3_img_3.jpeg",
+          "width": 493,
+          "height": 370
+        },
+        {
+          "type": "inspection_photo",
+          "page_number": 3,
+          "image_name": "page_3_img_4.jpeg",
+          "image_path": "extracted\\inspection_images\\page_3_img_4.jpeg",
+          "width": 493,
+          "height": 370
+        },
+        {
+          "type": "inspection_photo",
+          "page_number": 3,
+          "image_name": "page_3_img_5.jpeg",
+          "image_path": "extracted\\inspection_images\\page_3_img_5.jpeg",
+          "width": 493,
+          "height": 370
+        }
+      ],
+      "severity": "Moderate",
+      "reasoning": "Dampness at skirting level suggests moisture movement from nearby wet areas."
+    },
+    {
+      "id": 3,
+      "impacted_area": "Master Bedroom",
+      "negative_side_observation": "Dampness observed at skirting level of Master Bedroom of Flat No. 103",
+      "probable_positive_side_source": "Gaps between tile joints of Master Bedroom Bathroom of Flat No. 103",
+      "inspection_source": "Sample Report summary table",
+      "related_images": [
+        {
+          "type": "inspection_photo",
+          "page_number": 4,
+          "image_name": "page_4_img_2.jpeg",
+          "image_path": "extracted\\inspection_images\\page_4_img_2.jpeg",
+          "width": 493,
+          "height": 370
+        },
+        {
+          "type": "inspection_photo",
+          "page_number": 4,
+          "image_name": "page_4_img_3.jpeg",
+          "image_path": "extracted\\inspection_images\\page_4_img_3.jpeg",
+          "width": 493,
+          "height": 370
+        },
+        {
+          "type": "inspection_photo",
+          "page_number": 4,
+          "image_name": "page_4_img_4.jpeg",
+          "image_path": "extracted\\inspection_images\\page_4_img_4.jpeg",
+          "width": 493,
+          "height": 370
+        },
+        {
+          "type": "inspection_photo",
+          "page_number": 4,
+          "image_name": "page_4_img_5.jpeg",
+          "image_path": "extracted\\inspection_images\\page_4_img_5.jpeg",
+          "width": 493,
+          "height": 370
+        }
+      ],
+      "severity": "Moderate",
+      "reasoning": "Dampness is linked with bathroom tile joint gaps, which can allow water seepage below tile surfaces."
+    },
+    {
+      "id": 4,
+      "impacted_area": "Kitchen",
+      "negative_side_observation": "Dampness observed at skirting level of Kitchen of Flat No. 103",
+      "probable_positive_side_source": "Gaps between tile joints of Master Bedroom Bathroom of Flat No. 103",
+      "inspection_source": "Sample Report summary table",
+      "related_images": [
+        {
+          "type": "inspection_photo",
+          "page_number": 4,
+          "image_name": "page_4_img_2.jpeg",
+          "image_path": "extracted\\inspection_images\\page_4_img_2.jpeg",
+          "width": 493,
+          "height": 370
+        },
+        {
+          "type": "inspection_photo",
+          "page_number": 4,
+          "image_name": "page_4_img_3.jpeg",
+          "image_path": "extracted\\inspection_images\\page_4_img_3.jpeg",
+          "width": 493,
+          "height": 370
+        },
+        {
+          "type": "inspection_photo",
+          "page_number": 4,
+          "image_name": "page_4_img_4.jpeg",
+          "image_path": "extracted\\inspection_images\\page_4_img_4.jpeg",
+          "width": 493,
+          "height": 370
+        },
+        {
+          "type": "inspection_photo",
+          "page_number": 4,
+          "image_name": "page_4_img_5.jpeg",
+          "image_path": "extracted\\inspection_images\\page_4_img_5.jpeg",
+          "width": 493,
+          "height": 370
+        }
+      ],
+      "severity": "Moderate",
+      "reasoning": "Moisture-related dampness is reported at skirting level. Exact path of moisture movement is not fully available."
+    },
+    {
+      "id": 5,
+      "impacted_area": "Master Bedroom Wall",
+      "negative_side_observation": "Dampness and efflorescence observed on wall surface of Master Bedroom of Flat No. 103",
+      "probable_positive_side_source": "Cracks on external wall near Master Bedroom of Flat No. 103",
+      "inspection_source": "Sample Report summary table",
+      "related_images": [
+        {
+          "type": "inspection_photo",
+          "page_number": 5,
+          "image_name": "page_5_img_2.jpeg",
+          "image_path": "extracted\\inspection_images\\page_5_img_2.jpeg",
+          "width": 370,
+          "height": 493
+        },
+        {
+          "type": "inspection_photo",
+          "page_number": 5,
+          "image_name": "page_5_img_3.jpeg",
+          "image_path": "extracted\\inspection_images\\page_5_img_3.jpeg",
+          "width": 493,
+          "height": 370
+        },
+        {
+          "type": "inspection_photo",
+          "page_number": 5,
+          "image_name": "page_5_img_4.jpeg",
+          "image_path": "extracted\\inspection_images\\page_5_img_4.jpeg",
+          "width": 370,
+          "height": 493
+        },
+        {
+          "type": "inspection_photo",
+          "page_number": 5,
+          "image_name": "page_5_img_5.jpeg",
+          "image_path": "extracted\\inspection_images\\page_5_img_5.jpeg",
+          "width": 370,
+          "height": 493
+        }
+      ],
+      "severity": "Moderate to High",
+      "reasoning": "External wall cracks can allow water ingress. Efflorescence indicates moisture movement through wall material."
+    },
+    {
+      "id": 6,
+      "impacted_area": "Parking Area",
+      "negative_side_observation": "Leakage observed at Parking ceiling below Flat No. 103",
+      "probable_positive_side_source": "Plumbing issue and gaps between tile joints of Common Bathroom of Flat No. 103",
+      "inspection_source": "Sample Report summary table",
+      "related_images": [
+        {
+          "type": "inspection_photo",
+          "page_number": 5,
+          "image_name": "page_5_img_2.jpeg",
+          "image_path": "extracted\\inspection_images\\page_5_img_2.jpeg",
+          "width": 370,
+          "height": 493
+        },
+        {
+          "type": "inspection_photo",
+          "page_number": 5,
+          "image_name": "page_5_img_3.jpeg",
+          "image_path": "extracted\\inspection_images\\page_5_img_3.jpeg",
+          "width": 493,
+          "height": 370
+        },
+        {
+          "type": "inspection_photo",
+          "page_number": 5,
+          "image_name": "page_5_img_4.jpeg",
+          "image_path": "extracted\\inspection_images\\page_5_img_4.jpeg",
+          "width": 370,
+          "height": 493
+        },
+        {
+          "type": "inspection_photo",
+          "page_number": 5,
+          "image_name": "page_5_img_5.jpeg",
+          "image_path": "extracted\\inspection_images\\page_5_img_5.jpeg",
+          "width": 370,
+          "height": 493
+        }
+      ],
+      "severity": "High",
+      "reasoning": "Ceiling leakage below the flat indicates active water movement and possible plumbing involvement."
+    },
+    {
+      "id": 7,
+      "impacted_area": "Common Bathroom",
+      "negative_side_observation": "Mild dampness observed at ceiling of Common Bathroom of Flat No. 103",
+      "probable_positive_side_source": "Gap between tile joints of Common and Master Bedroom Bathrooms of Flat No. 203",
+      "inspection_source": "Sample Report summary table",
+      "related_images": [
+        {
+          "type": "inspection_photo",
+          "page_number": 6,
+          "image_name": "page_6_img_2.jpeg",
+          "image_path": "extracted\\inspection_images\\page_6_img_2.jpeg",
+          "width": 166,
+          "height": 163
+        },
+        {
+          "type": "inspection_photo",
+          "page_number": 6,
+          "image_name": "page_6_img_3.jpeg",
+          "image_path": "extracted\\inspection_images\\page_6_img_3.jpeg",
+          "width": 493,
+          "height": 370
+        },
+        {
+          "type": "inspection_photo",
+          "page_number": 6,
+          "image_name": "page_6_img_4.jpeg",
+          "image_path": "extracted\\inspection_images\\page_6_img_4.jpeg",
+          "width": 493,
+          "height": 370
+        },
+        {
+          "type": "inspection_photo",
+          "page_number": 6,
+          "image_name": "page_6_img_5.jpeg",
+          "image_path": "extracted\\inspection_images\\page_6_img_5.jpeg",
+          "width": 493,
+          "height": 370
+        }
+      ],
+      "severity": "Moderate",
+      "reasoning": "Mild dampness is present and may be linked to tile joint gaps from upper flat bathrooms."
+    }
+  ],
+  "checklist_findings": {
+    "leakage_during": "All time",
+    "leakage_due_to_concealed_plumbing": "Yes",
+    "leakage_due_to_nahani_trap_or_brickbat_coba_damage": "Yes",
+    "tile_joint_gaps": "Yes",
+    "gaps_around_nahani_trap": "Yes",
+    "loose_plumbing_joints_or_rust_around_joints": "Yes",
+    "tiles_broken_or_loosed": "No",
+    "external_wall_cracks": "Moderate",
+    "external_plumbing_pipes_condition": "Moderate",
+    "algae_fungus_moss_on_external_wall": "Moderate"
+  },
+  "thermal_readings": [
+    {
+      "page_number": 1,
+      "thermal_image": "RB02380X.JPG",
+      "hotspot": "28.8 °C",
+      "coldspot": "23.4 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 1,
+          "image_name": "thermal_page_1.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_1.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "thermal_image": "RB02386X.JPG",
+      "hotspot": "27.4 °C",
+      "coldspot": "22.4 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 2,
+          "image_name": "thermal_page_2.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_2.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "thermal_image": "RB02395X.JPG",
+      "hotspot": "27 °C",
+      "coldspot": "22 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 3,
+          "image_name": "thermal_page_3.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_3.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "thermal_image": "RB02402X.JPG",
+      "hotspot": "25.7 °C",
+      "coldspot": "20.7 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 4,
+          "image_name": "thermal_page_4.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_4.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "thermal_image": "RB02403X.JPG",
+      "hotspot": "25.5 °C",
+      "coldspot": "20.5 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 5,
+          "image_name": "thermal_page_5.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_5.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "thermal_image": "RB02404X.JPG",
+      "hotspot": "25.8 °C",
+      "coldspot": "20.8 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 6,
+          "image_name": "thermal_page_6.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_6.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "thermal_image": "RB02405X.JPG",
+      "hotspot": "26.2 °C",
+      "coldspot": "21.2 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 7,
+          "image_name": "thermal_page_7.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_7.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "thermal_image": "RB02406X.JPG",
+      "hotspot": "26.5 °C",
+      "coldspot": "21.5 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 8,
+          "image_name": "thermal_page_8.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_8.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "thermal_image": "RB02392X.JPG",
+      "hotspot": "25.8 °C",
+      "coldspot": "20.8 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 9,
+          "image_name": "thermal_page_9.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_9.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "thermal_image": "RB02393X.JPG",
+      "hotspot": "25.9 °C",
+      "coldspot": "20.9 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 10,
+          "image_name": "thermal_page_10.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_10.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "thermal_image": "RB02394X.JPG",
+      "hotspot": "26 °C",
+      "coldspot": "21 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 11,
+          "image_name": "thermal_page_11.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_11.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "thermal_image": "RB02396X.JPG",
+      "hotspot": "26.1 °C",
+      "coldspot": "21.1 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 12,
+          "image_name": "thermal_page_12.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_12.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "thermal_image": "RB02397X.JPG",
+      "hotspot": "26.3 °C",
+      "coldspot": "21.3 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 13,
+          "image_name": "thermal_page_13.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_13.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "thermal_image": "RB02398X.JPG",
+      "hotspot": "25.6 °C",
+      "coldspot": "20.6 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 14,
+          "image_name": "thermal_page_14.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_14.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "thermal_image": "RB02399X.JPG",
+      "hotspot": "26.5 °C",
+      "coldspot": "21.5 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 15,
+          "image_name": "thermal_page_15.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_15.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "thermal_image": "RB02400X.JPG",
+      "hotspot": "25.2 °C",
+      "coldspot": "20.2 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 16,
+          "image_name": "thermal_page_16.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_16.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "thermal_image": "RB02401X.JPG",
+      "hotspot": "25.6 °C",
+      "coldspot": "20.6 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 17,
+          "image_name": "thermal_page_17.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_17.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "thermal_image": "RB02381X.JPG",
+      "hotspot": "27 °C",
+      "coldspot": "22 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 18,
+          "image_name": "thermal_page_18.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_18.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "thermal_image": "RB02382X.JPG",
+      "hotspot": "26.7 °C",
+      "coldspot": "21.7 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 19,
+          "image_name": "thermal_page_19.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_19.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "thermal_image": "RB02383X.JPG",
+      "hotspot": "26.5 °C",
+      "coldspot": "21.5 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 20,
+          "image_name": "thermal_page_20.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_20.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 21,
+      "thermal_image": "RB02384X.JPG",
+      "hotspot": "27.3 °C",
+      "coldspot": "22.3 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 21,
+          "image_name": "thermal_page_21.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_21.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 22,
+      "thermal_image": "RB02385X.JPG",
+      "hotspot": "27.3 °C",
+      "coldspot": "22.3 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 22,
+          "image_name": "thermal_page_22.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_22.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 23,
+      "thermal_image": "RB02387X.JPG",
+      "hotspot": "25.2 °C",
+      "coldspot": "20.2 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 23,
+          "image_name": "thermal_page_23.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_23.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 24,
+      "thermal_image": "RB02388X.JPG",
+      "hotspot": "25.1 °C",
+      "coldspot": "20.1 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 24,
+          "image_name": "thermal_page_24.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_24.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 25,
+      "thermal_image": "RB02389X.JPG",
+      "hotspot": "25.9 °C",
+      "coldspot": "20.9 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 25,
+          "image_name": "thermal_page_25.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_25.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 26,
+      "thermal_image": "RB02390X.JPG",
+      "hotspot": "26.9 °C",
+      "coldspot": "21.9 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 26,
+          "image_name": "thermal_page_26.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_26.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 27,
+      "thermal_image": "RB02391X.JPG",
+      "hotspot": "25.6 °C",
+      "coldspot": "20.6 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 27,
+          "image_name": "thermal_page_27.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_27.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 28,
+      "thermal_image": "RB02377X.JPG",
+      "hotspot": "26.9 °C",
+      "coldspot": "21.9 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 28,
+          "image_name": "thermal_page_28.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_28.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 29,
+      "thermal_image": "RB02378X.JPG",
+      "hotspot": "26.4 °C",
+      "coldspot": "21.4 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 29,
+          "image_name": "thermal_page_29.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_29.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    },
+    {
+      "page_number": 30,
+      "thermal_image": "RB02379X.JPG",
+      "hotspot": "27.8 °C",
+      "coldspot": "22.8 °C",
+      "emissivity": "0.94",
+      "reflected_temperature": "23 °C",
+      "device": "GTC 400 C Professional",
+      "date": "27/09/22",
+      "area_mapping": "Not Available",
+      "images": [
+        {
+          "type": "thermal_page",
+          "page_number": 30,
+          "image_name": "thermal_page_30.png",
+          "image_path": "extracted\\thermal_pages\\thermal_page_30.png",
+          "width": 1684,
+          "height": 1190
+        }
+      ]
+    }
+  ],
+  "recommended_actions": [
+    "Seal gaps between tile joints in Common Bathroom and Master Bedroom Bathroom.",
+    "Inspect concealed plumbing lines and repair any leakage points.",
+    "Repair gaps around Nahani trap joints and plumbing outlet joints.",
+    "Seal external wall cracks near the Master Bedroom area.",
+    "Treat damp affected wall surfaces after the source of moisture is repaired.",
+    "Monitor Parking Area ceiling leakage after bathroom/plumbing repairs.",
+    "Reinspect affected areas after repair to confirm moisture reduction."
+  ],
+  "missing_or_unclear_information": [
+    "Customer Name",
+    "Mobile",
+    "Email",
+    "Address",
+    "Property Age",
+    "Exact mapping between every thermal image and impacted area"
+  ]
+}

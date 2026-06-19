@@ -1,0 +1,15 @@
+{
+  "invented_claims": [
+    "Local validator cannot fully detect invented claims. Compact evidence and deterministic report generation reduce hallucination risk."
+  ],
+  "duplicate_points": [],
+  "missing_required_sections": [],
+  "unsupported_root_causes": [],
+  "image_mapping_issues": [
+    "Exact room-wise thermal image mapping is Not Available unless explicitly present in source documents."
+  ],
+  "missing_information_not_marked": [],
+  "thermal_evidence_issues": [],
+  "overall_accuracy_score_out_of_100": 100,
+  "fixes_required": []
+}

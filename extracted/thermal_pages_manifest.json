@@ -1,0 +1,242 @@
+[
+  {
+    "type": "thermal_page",
+    "page_number": 1,
+    "image_name": "thermal_page_1.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_1.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 2,
+    "image_name": "thermal_page_2.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_2.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 3,
+    "image_name": "thermal_page_3.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_3.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 4,
+    "image_name": "thermal_page_4.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_4.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 5,
+    "image_name": "thermal_page_5.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_5.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 6,
+    "image_name": "thermal_page_6.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_6.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 7,
+    "image_name": "thermal_page_7.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_7.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 8,
+    "image_name": "thermal_page_8.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_8.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 9,
+    "image_name": "thermal_page_9.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_9.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 10,
+    "image_name": "thermal_page_10.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_10.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 11,
+    "image_name": "thermal_page_11.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_11.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 12,
+    "image_name": "thermal_page_12.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_12.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 13,
+    "image_name": "thermal_page_13.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_13.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 14,
+    "image_name": "thermal_page_14.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_14.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 15,
+    "image_name": "thermal_page_15.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_15.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 16,
+    "image_name": "thermal_page_16.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_16.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 17,
+    "image_name": "thermal_page_17.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_17.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 18,
+    "image_name": "thermal_page_18.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_18.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 19,
+    "image_name": "thermal_page_19.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_19.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 20,
+    "image_name": "thermal_page_20.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_20.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 21,
+    "image_name": "thermal_page_21.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_21.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 22,
+    "image_name": "thermal_page_22.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_22.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 23,
+    "image_name": "thermal_page_23.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_23.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 24,
+    "image_name": "thermal_page_24.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_24.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 25,
+    "image_name": "thermal_page_25.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_25.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 26,
+    "image_name": "thermal_page_26.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_26.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 27,
+    "image_name": "thermal_page_27.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_27.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 28,
+    "image_name": "thermal_page_28.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_28.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 29,
+    "image_name": "thermal_page_29.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_29.png",
+    "width": 1684,
+    "height": 1190
+  },
+  {
+    "type": "thermal_page",
+    "page_number": 30,
+    "image_name": "thermal_page_30.png",
+    "image_path": "extracted\\thermal_pages\\thermal_page_30.png",
+    "width": 1684,
+    "height": 1190
+  }
+]
